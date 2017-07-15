@@ -1,9 +1,9 @@
-# homebridge-onkyo-avr
-Homebridge module for Onkyo AVRs (tested on TX-NR609 and TX-8050)
+# homebridge-sharp-aquos
+Homebridge module for Sharp Aquos
 
 # Description
 
-Onkyo AVR module, works in principle.
+Forked from Onkyo AVR module, works in principle.
 
 Ensure that the onkyo is controllable using for instance IOS apps like OnkyoRemote3.
 
